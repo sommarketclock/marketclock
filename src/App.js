@@ -14,7 +14,7 @@ export default function App() {
             format={"HH:mm"}
             timezone={"US/Eastern"}
             ticking={true}
-            style={{ "fontSize": "14em" ,"font-family": 'digital-7'}}
+            style={{ "fontSize": "14em" ,"fontFamily": 'digital-7'}}
           />
         </div>
         <div className="TimeDate">
@@ -25,7 +25,7 @@ export default function App() {
             format={"HH:mm"}
             timezone={"Europe/London"}
             ticking={true}
-            style={{ "fontSize": "14em" ,"font-family": 'digital-7'}}
+            style={{ "fontSize": "14em" ,"fontFamily": 'digital-7'}}
             
           />
         </div>
@@ -37,7 +37,7 @@ export default function App() {
             format={"HH:mm"}
             timezone={"Asia/Hong_Kong"}
             ticking={true}
-            style={{ "fontSize": "14em" ,"font-family": 'digital-7'}}
+            style={{ "fontSize": "14em" ,"fontFamily": 'digital-7'}}
           />
         </div>
       </div>
